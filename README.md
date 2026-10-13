@@ -1,5 +1,4 @@
-# Nexus-
-Nexus power by Xyell Nex Gen Technology 
+
 <!DOCTYPE html>
 <html lang="hi">
 <head>
